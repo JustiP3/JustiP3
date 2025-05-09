@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JustiP3
-- 👀 I’m interested in computing systems from top to bottom.
-- 🌱 I’m currently learning the fundamentals of hardware and electonics and getting better at C and C++
-- 💞️ I’m looking to collaborate on some low level programming project like implementing an operating system or some driver or something of the sort. 
+- 👀 I’m interested in collaboarting on open source projects. 
+- 🌱 I’m studying Electrical Engineering. I have a range of interests for potential projects.
 - 📫 How to reach me: justinphil02@gmail.com
 
 <!---
